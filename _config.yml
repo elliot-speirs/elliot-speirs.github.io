@@ -1,0 +1,12 @@
+name: "ElliotSPEIRS"
+theme: minima
+navbar:
+  title: "Elliot Speirs"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: Research.html
+    - text: "Contact"
+      href: Contact.html
+      
